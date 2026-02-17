@@ -1,0 +1,20 @@
+## Setup
+
+1. Clone the repository
+```bash
+   git clone https://github.com/junzhoupro/histogram.git
+   cd 仓库名
+```
+
+2. Create and activate the environment
+```bash
+   conda env create -f environment.yml
+   conda activate jinx-dataset
+```
+
+## Usage
+```bash
+python src/inference.py --checkpoint training-runs/00012-gpus1-batch4/checkpoints/epoch00100.pt --img_dir data --outdir test
+```
+
+Images should be stored in a similar structure as the current `data` folder.
