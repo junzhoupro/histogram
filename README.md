@@ -1,5 +1,4 @@
-Readme · MD
-Copy
+# Jewelry Relighting via Histogram Adjustment
 
 ## Setup
 
