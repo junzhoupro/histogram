@@ -3,7 +3,7 @@
 1. Clone the repository
 ```bash
    git clone https://github.com/junzhoupro/histogram.git
-   cd 仓库名
+   cd histogram
 ```
 
 2. Create and activate the environment
